@@ -20,6 +20,3 @@ Faça um diagrama de montagem do dispositivo. Exemplo:
 ![](Montagem_Sistema.PNG)
 
 
-## Código fonte
-
-![](Codigo_Fonte.txt)
