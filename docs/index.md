@@ -17,4 +17,4 @@ Faça um diagrama de implantação. Exemplo:
 
 Faça um diagrama de montagem do dispositivo. Exemplo:
 
-![](montagem.png)
+![](Montagem_Sistema.PNG)
