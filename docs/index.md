@@ -1,8 +1,10 @@
-# *Nome do Projeto*
+# *Sensor de monitoramento de energia*
 
 ## Ideia
 
-(*Faça uma breve descrição do problema que seu projeto irá resolver.*)
+  Sistema inteligente de iluminação para ambientes. Possibilitando ligar ou desligar a iluminação do ambiente, através de interface web.
+	O sistema identifica por sensor a presença de indivíduos no ambiente, desligando automaticamente a iluminação do ambiente após um intervalo de tempo.
+
 
 ## Diagrama de implantação
 
