@@ -7,7 +7,7 @@
 
 ## Diagrama de Implantação
 
-![](DiagImplantacao.PNG)
+![](DiagImplantacao.png)
 
 ## Montagem do dispositivo
 
